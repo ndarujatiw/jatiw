@@ -1,0 +1,1 @@
+#PEP 8 is the official style guide for Python. It focuses on making code readable and consistent across the entire Python ecosystem. While you don't need to memorize it, getting into the habit of using 4 spaces for indentation, wrapping long lines, and keeping a clean structure will make your code much more professional.
